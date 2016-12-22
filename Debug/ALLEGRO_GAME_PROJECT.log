@@ -1,0 +1,17 @@
+﻿Build started 22-12-2016 13:52:15.
+     1>Project "C:\Users\Gaurav Harchwani\Documents\Visual Studio 2010\Projects\ALLEGRO_GAME_PROJECT\ALLEGRO_GAME_PROJECT\ALLEGRO_GAME_PROJECT.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ALLEGRO_GAME_PROJECT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ALLEGRO_GAME_PROJECT.vcxproj -> C:\Users\Gaurav Harchwani\Documents\Visual Studio 2010\Projects\ALLEGRO_GAME_PROJECT\Debug\ALLEGRO_GAME_PROJECT.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ALLEGRO_GAME_PROJECT.unsuccessfulbuild".
+         Touching "Debug\ALLEGRO_GAME_PROJECT.lastbuildstate".
+     1>Done Building Project "C:\Users\Gaurav Harchwani\Documents\Visual Studio 2010\Projects\ALLEGRO_GAME_PROJECT\ALLEGRO_GAME_PROJECT\ALLEGRO_GAME_PROJECT.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.12
