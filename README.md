@@ -12,3 +12,6 @@ How to setup your Computer for Allegro Environment :
 
 
 Below is the link of youtube video : 
+
+![4](https://cloud.githubusercontent.com/assets/14818804/21540158/6a3a8c90-cdd3-11e6-9277-42568c518954.png)
+
