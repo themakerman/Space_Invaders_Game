@@ -1,5 +1,7 @@
 #Space_Invaders_Game 
 How to setup your Computer for Allegro Environment :
+
+
 1 Extract all the compiled version of ALLEGRO for Visual Studio allegro-5.0.10-msvc-10.0 to one place.Inside you will find out three folders : bin,include and lib.
 
 
